@@ -2,7 +2,7 @@ client/node_modules/**
 client/config/*
 !client/config/*.Public.*
 server/*
-!server/src/*
+!server/src
 server/src/config/*
 !server/src/config/*.Public.*
 server/src/**/__pycache__/**
